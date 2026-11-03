@@ -1,0 +1,18 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Node (nếu sau này dùng)
+node_modules/
+npm-debug.log*
+
+# Claude / local config
+.claude/
+
+# Logs & tạm
+*.log
+*.tmp
